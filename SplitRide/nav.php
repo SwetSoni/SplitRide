@@ -11,7 +11,7 @@
    <nav class="navbar background">
       <ul class="nav-list">
          <?php include("sidenav.php"); ?>
-         <div class="logo"><img src="..\img\LOGO.png" alt="logo"></div>
+         <div class="logo"><img src="img/img.jpg" alt="logo"></div>
          <li><a href="main.php">Home</a></li>
          <li><a href="aboutus.php">About Us</a></li>
          <li><a href="#benefits">Benefits</a></li>

@@ -22,15 +22,15 @@
                <span class="first">&#9660</span>
            </a></li>
            <ul class="drv-show">
-               <li><a href="#">Offer A Ride</a></li><!-- offeraride.php -->
-               <li><a href="#">View Offered Ride</a></li><!-- viewofferedride.php -->
-           </ul>
+               <li><a href="offeraride.php">Offer A Ride</a></li><!-- offeraride.php -->
+               <li><a href="viewofferedride.php">View Offered Ride</a></li><!-- viewofferedride.php -->
+           </ul> 
            <li><a href="#" class="pas-btn">Passenger
                <span class="second">&#9660</span>
            </a></li>
            <ul class="pas-show">
-               <li><a href="#">Find A Ride</a></li><!-- displayride.php -->
-               <li><a href="#">View Conformed Ride</a></li><!-- confirmedride.php -->
+               <li><a href="displayride.php">Find A Ride</a></li><!-- displayride.php -->
+               <li><a href="confirmedride.php">View Conformed Ride</a></li><!-- confirmedride.php -->
            </ul>
            <li><a href="#contact">Contact</a></li>
            <li><a href="logout.php">Logout</a></li>

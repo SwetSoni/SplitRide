@@ -24,7 +24,7 @@
       </p>
      </div> 
       <div class="thumbnail1">
-        <img src="img/swet.jpg" alt="img" class="imgfluid">
+        <img src="img/swet.png" alt="img" class="imgfluid">
       </div>
    </section>
 
@@ -35,18 +35,7 @@
       </p>
      </div> 
       <div class="thumbnail1">
-        <img src="img/yatin.jpg" alt="img" class="imgfluid">
-      </div>
-   </section>
-
-   <section class="section">
-     <div class="paras">
-      <p class="sectiontag text-big">Yatin Parmar</p>
-      <p class="sectionsubtag text-small"></br> Gender : Male </br> E-mail : d21cs111@charusat.edu.in
-      </p>
-     </div> 
-      <div class="thumbnail1">
-        <img src="img/yatin.jpg" alt="img" class="imgfluid">
+        <img src="img/yatin.jpeg" alt="img" class="imgfluid">
       </div>
    </section>
    </div>

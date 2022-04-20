@@ -20,10 +20,10 @@ if($num == 1){
    echo "</script>";
 }
 else{
-   $reg= " insert into users(email, password) values ('$email', '$s_pass')";
+   $reg= "insert into users(email, password) values ('$email', '$s_pass')";
    mysqli_query($con, $reg);
    header('location: index1.php');
-   echo" Registration Successful";
+   echo "Registration Successful";
 }
 
 ?>
